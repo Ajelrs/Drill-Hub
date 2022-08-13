@@ -1,5 +1,5 @@
 if game.PlaceId == 4913581664 then -- Carl Ride
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/Ajelrs/Vietnamese-Hub-/main/Cartride.lua'))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/Ajelrs/Vietnamese-Hub-/main/Cartride.lua'))();
     
 elseif game.PlaceId == 10118559731 then -- nico nextbot
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/Ajelrs/Vietnamese-Hub-/main/Niconextbot.lua'))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/Ajelrs/Vietnamese-Hub-/main/Niconextbot.lua'))();
